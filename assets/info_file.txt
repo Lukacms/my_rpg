@@ -1,0 +1,27 @@
+MY_RPG       B2 - C Graphical Programming        Tek 1 final project
+
+NAME
+    My_rpg - Corpse Party
+
+USAGE
+    ./my_rpg
+
+DESCRIPTION
+    our own rpg game
+    take no arguments, or use the -h option to display this help and exit
+    press Q or Alt+F4 to exit the window
+
+USER INTERACTIONS:
+    directions key: move the player in the direction they point to
+    [X]: attack
+    [W]: interact
+    [I]: see inventory
+    [Q]; quit
+    [P]: pause
+
+Exit status code
+    0 if okay
+    84 in case of errors (wrong map, error while initializing parameters...)
+
+Author:
+    Luka Camus, Louis Bassagal, Nils Martin, Kévin Demy

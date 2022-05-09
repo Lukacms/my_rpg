@@ -1,0 +1,5 @@
+SAVE CONFIGURATION FILE :
+1) Character position : X Y
+2) Inventory (1 = Have, 0 = Don't have) : body_puppet full_puppet head_puppet heal_bottle key madness_potion magic_attack wooden_plank
+3) Scripts (1 = Executed 0 = Not executed) : plank_collapse view_items ghost_sound pursuit_model new_room_model npc_kill
+4) Stats (numbers (integer)) : damage speed madness health xp
