@@ -10,7 +10,7 @@ Reproduce a [role play game](https://en.wikipedia.org/wiki/Role-playing_game) us
 ## How to use the project
 - Clone the project
 ```
-git clone git@github.com:EpitechPromo2026/B-MUL-200-BDX-2-1-myrpg-chloe.camus.git myrpg
+git clone git@github.com:Lukacms/my_rpg.git myrpg
 ```
 
 - Go into the `myrpg` directory. A Makefile is used to compile the code, and it use the following rules:
